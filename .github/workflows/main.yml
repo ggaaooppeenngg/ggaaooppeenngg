@@ -16,3 +16,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # ... other options
+          plugin_skyline: yes
+          plugin_skyline_year: 0      # Set to 0 to display current year
+          plugin_skyline_frames: 60   # Use 60 frames (half-loop)
+          plugin_skyline_quality: 0.5 # Scale-down quality by half to reduce file-size (⚠️ higher quality increase file size)
