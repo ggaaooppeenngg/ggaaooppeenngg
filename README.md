@@ -14,6 +14,7 @@ Explore my thoughts and insights on technology and more on my [personal blog](ht
 - ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 - ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+<!-- 
 ## 🚀 Popular Repositories Contributed To
 
 - [accelerate](https://github.com/huggingface/accelerate/commits/main/?author=ggaaooppeenngg)
@@ -26,4 +27,5 @@ Explore my thoughts and insights on technology and more on my [personal blog](ht
 - [flannel](https://github.com/flannel-io/flannel/commits/master/?author=ggaaooppeenngg)
 - [cockroach](https://github.com/cockroachdb/cockroach/commits/master/?author=ggaaooppeenngg)
 - [runc](https://github.com/opencontainers/runc/commits/main/?author=ggaaooppeenngg)
+ -->
 
