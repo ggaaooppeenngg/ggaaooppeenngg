@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Peng Gao, a dedicated software engineer based in Shanghai, China.
+I'm Peng Gao, a software engineer based in Shanghai, China.
 
 ## &#x270d; Blog & Writing
 
