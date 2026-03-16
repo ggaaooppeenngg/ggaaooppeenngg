@@ -28,7 +28,7 @@ I'm a true agent lover. Recently deep-diving into **Agent architecture** and **A
 - Context engineering for persistent Agent memory
 - Balancing MCP tools vs scripts for Agent automation
 
-**Latest writing**: [Agent Skill Self-Improvement Mechanisms](https://ggaaooppeenngg.github.io/2026/03/16/agent-skill-self-improvement/)
+**Latest writing**: [Agent Skill Self-Improvement Mechanisms](https://ggaaooppeenngg.github.io/zh-CN/2026/03/16/agent-skill-self-improvement/)
 
 ---
 
