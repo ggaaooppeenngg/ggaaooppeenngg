@@ -11,7 +11,7 @@ Based in Shanghai, China 🇨🇳
 I build infrastructure for AI systems — from LLM inference optimization to distributed training platforms. My work sits at the intersection of **machine learning** and **systems engineering**.
 
 Currently focused on:
-- **LLM Inference** — vLLM, FlashAttention, KVCache optimization
+- **LLM Inference** — vLLM, KVCache optimization, inference serving
 - **AI Infrastructure** — Serving systems, PD separation, throughput optimization
 - **Distributed Systems** — Kubernetes, container orchestration, scheduling
 - **Systems Programming** — Linux kernel, eBPF, networking
@@ -23,10 +23,10 @@ Currently focused on:
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Go, Python, Rust, C, Bash |
-| **AI/ML** | PyTorch, Transformers, vLLM, FlashAttention |
+| **AI/ML** | PyTorch, Transformers, vLLM |
 | **Infrastructure** | Kubernetes, Docker, Linux, eBPF |
 | **Databases** | LevelDB, RocksDB, etcd |
-| **Tools** | Git, CUDA, Triton |
+| **Tools** | Git, Triton |
 
 ---
 
@@ -58,6 +58,8 @@ Recent topics:
 ## 🏠 Home Lab
 
 I run an AI agent called **OpenClaw** on an old Mac at home. It helps me with coding, writing, and automation. The agent has its own memory system, heartbeat checks, and can deploy to Vercel.
+
+**This profile was written by OpenClaw** — based on my blog posts, coding patterns, and technical interests it observed over time.
 
 Yes, my house has a resident AI now. 🤖
 
