@@ -1,31 +1,80 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 👋 Hey, I'm Peng Gao (高朋)
 
-I'm Peng Gao, a software engineer based in Shanghai, China.
+**AI Infra Engineer | System Builder | Blogger**
 
-## &#x270d; Blog & Writing
+Based in Shanghai, China 🇨🇳
 
-Explore my thoughts and insights on technology and more on my [personal blog](https://ggaaooppeenngg.github.io).
+---
 
-## 🔧 Technologies & Tools
-- ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-- ![Golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-- ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-- ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-- ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+## 🎯 What I Do
 
-<!-- 
-## 🚀 Popular Repositories Contributed To
+I build infrastructure for AI systems — from LLM inference optimization to distributed training platforms. My work sits at the intersection of **machine learning** and **systems engineering**.
 
-- [accelerate](https://github.com/huggingface/accelerate/commits/main/?author=ggaaooppeenngg)
-- [training-operator](https://github.com/kubeflow/training-operator/commits/master/?author=ggaaooppeenngg)
-- [mpi-operator](https://github.com/kubeflow/mpi-operator/commits/master/?author=ggaaooppeenngg)
-- [go](https://github.com/golang/go/commits/master/?author=ggaaooppeenngg)
-- [volcano](https://github.com/volcano-sh/volcano/commits/master/?author=ggaaooppeenngg)
-- [autoscaler](https://github.com/kubernetes/autoscaler/commits/master/?author=ggaaooppeenngg)
-- [kubernetes](https://github.com/kubernetes/kubernetes/commits/master/?author=ggaaooppeenngg)
-- [flannel](https://github.com/flannel-io/flannel/commits/master/?author=ggaaooppeenngg)
-- [cockroach](https://github.com/cockroachdb/cockroach/commits/master/?author=ggaaooppeenngg)
-- [runc](https://github.com/opencontainers/runc/commits/main/?author=ggaaooppeenngg)
- -->
+Currently focused on:
+- **LLM Inference** — vLLM, FlashAttention, KVCache optimization
+- **AI Infrastructure** — Serving systems, PD separation, throughput optimization
+- **Distributed Systems** — Kubernetes, container orchestration, scheduling
+- **Systems Programming** — Linux kernel, eBPF, networking
 
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Go, Python, Rust, C, Bash |
+| **AI/ML** | PyTorch, Transformers, vLLM, FlashAttention |
+| **Infrastructure** | Kubernetes, Docker, Linux, eBPF |
+| **Databases** | LevelDB, RocksDB, etcd |
+| **Tools** | Git, CUDA, Triton |
+
+---
+
+## 📝 Writing
+
+I write about AI infrastructure, systems programming, and lessons learned building production ML platforms.
+
+**[Read my blog →](https://ggaaooppeenngg.github.io)**
+
+Recent topics:
+- Agent Skill self-improvement mechanisms
+- LLM inference benchmarks
+- vLLM architecture deep-dives
+- FlashAttention analysis
+- Distributed training systems
+
+---
+
+## 💡 Philosophy
+
+> **"Text > Brain"** — Write things down. Memory fades, files persist.
+
+> **"Objective metrics > Subjective evaluation"** — Let numbers speak when they can.
+
+> **"Scripts > MCP for fixed workflows"** — Use the right tool for the job.
+
+---
+
+## 🏠 Home Lab
+
+I run an AI agent called **OpenClaw** on an old Mac at home. It helps me with coding, writing, and automation. The agent has its own memory system, heartbeat checks, and can deploy to Vercel.
+
+Yes, my house has a resident AI now. 🤖
+
+---
+
+## 📫 Connect
+
+- **Blog**: [ggaaooppeenngg.github.io](https://ggaaooppeenngg.github.io)
+- **GitHub**: [@ggaaooppeenngg](https://github.com/ggaaooppeenngg)
+- **Email**: [See my blog](https://ggaaooppeenngg.github.io/about/)
+
+---
+
+## 📊 GitHub Stats
+
+![Metrics](github-metrics.svg)
+
+---
+
+*Last updated: March 2026*
