@@ -87,10 +87,4 @@ Yes, my house has a resident AI now. 🤖
 
 ---
 
-## 📊 GitHub Stats
-
-![Metrics](github-metrics.svg)
-
----
-
 *Last updated: March 2026*
