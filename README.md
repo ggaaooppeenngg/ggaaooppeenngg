@@ -18,6 +18,20 @@ Currently focused on:
 
 ---
 
+## 🤖 Agent Enthusiast
+
+I'm a true agent lover. Recently deep-diving into **Agent architecture** and **Agent Skills best practices**:
+
+- Building self-improving Agent Skills with feedback loops
+- Designing objective metrics vs subjective evaluation for Agent outputs
+- Token budget control and iteration termination strategies
+- Context engineering for persistent Agent memory
+- Balancing MCP tools vs scripts for Agent automation
+
+**Latest writing**: [Agent Skill Self-Improvement Mechanisms](https://ggaaooppeenngg.github.io/2026/03/16/agent-skill-self-improvement/)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
