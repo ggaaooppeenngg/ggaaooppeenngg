@@ -40,7 +40,7 @@ I'm a true agent lover. Recently deep-diving into **Agent architecture** and **A
 | **AI/ML** | PyTorch, Transformers, vLLM |
 | **Infrastructure** | Kubernetes, Docker, Linux, eBPF |
 | **Databases** | LevelDB, RocksDB, etcd |
-| **Tools** | Git, Triton |
+| **Tools** | Git |
 
 ---
 
